@@ -1,0 +1,11 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yuzi Ma",
+  "license": "MIT",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^4.4.4"
+  }
+}
